@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|c:\\users\\rober\\desktop\\authenticationentity\\peliculasapi\\controllers\\directorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|solutionrelative:controllers\\directorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|c:\\users\\rober\\desktop\\authenticationentity\\peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|solutionrelative:controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|c:\\users\\rober\\desktop\\authenticationentity\\peliculasapi\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|solutionrelative:controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|c:\\users\\rober\\desktop\\authenticationentity\\peliculasapi\\models\\peliculadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|solutionrelative:models\\peliculadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|c:\\users\\rober\\desktop\\authenticationentity\\peliculasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|c:\\users\\rober\\desktop\\authenticationentity\\peliculasapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|c:\\users\\rober\\desktop\\authenticationentity\\peliculasapi\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C714C86A-5035-4F49-8B46-51913F2FFD7B}|PeliculasAPI.csproj|solutionrelative:models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:04:27.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Models\\Pelicula.cs",
+              "RelativeToolTip": "Models\\Pelicula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:04:08.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeliculaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Models\\PeliculaDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\PeliculaDbContext.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Models\\PeliculaDbContext.cs",
+              "RelativeToolTip": "Models\\PeliculaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:03:54.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "Controllers\\PeliculasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:55:53.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenerosController.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeToolTip": "Controllers\\GenerosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:55:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoresController.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Controllers\\DirectoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DirectoresController.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Controllers\\DirectoresController.cs",
+              "RelativeToolTip": "Controllers\\DirectoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:54:36.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\AuthenticationEntity\\PeliculasAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:18:50.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
